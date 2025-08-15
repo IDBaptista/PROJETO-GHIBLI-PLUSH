@@ -18,5 +18,7 @@ Participação
 > [Maria Eduarda Gomes](https://github.com/MariaGomesR)  
 
 Links
-> [Protótipo](https://www.canva.com/design/DAGU-FioS1E/JreyaxvgsC2lhuiY1KHZTw/view?utm_content=DAGU-FioS1E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5537a80282)  
+> [Protótipo](https://www.canva.com/design/DAGU-FioS1E/JreyaxvgsC2lhuiY1KHZTw/view?utm_content=DAGU-FioS1E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5537a80282)
+
+> [Site Renderizado](https://ghibliplush.onrender.com/)
 
