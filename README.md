@@ -9,10 +9,9 @@ Foi desenvolvido em duplas e criamos a GhibliPlush uma empresa que faz pelúcias
 
 ## DESENVOLVIMENTO:
 ![print index](/static/assets/print/index.jpeg)
-![print nós](/static/assets/nós.png)
-![print seguranca](/static/assets/segurança.png)
-![print comoinvestir](/static/assets/comoinvestir.png)
-
+![print cad](/static/assets/print/cad.jpeg)
+![print cad2](/static/assets/print/cad2.jpeg)
+![print tab](/static/assets/print/tab.jpeg)
 
 
 Participação
